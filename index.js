@@ -1,4 +1,6 @@
 console.log('hi')
 console.log('howdy')
-var name
-name = 'tyson'
+
+console.log('THIS IS MY NEW LOG OF CONSOLE')
+
+
